@@ -5,9 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vermashaurya24&label=Profile%20views&color=0e75b6&style=flat" alt="vermashaurya24" /> </p>
 
-<p align="left"> <a href="https://twitter.com/shaurya_rverma" target="blank"><img src="https://img.shields.io/twitter/follow/shaurya_rverma?logo=twitter&style=for-the-badge" alt="shaurya_rverma" /></a> </p>
+<p align="left"> <a href="https://bit.ly/resume_shaurya" target="blank"><img src="https://img.shields.io/twitter/follow/shaurya_rverma?logo=twitter&style=for-the-badge" alt="shaurya_rverma" /></a> </p>
 
 - 🌱 I’m currently learning **Backend with NodeJS and ExpressJS**
+
+- 📋 My resume **https://bit.ly/resume_shaurya**
 
 - 💬 Ask me about **Data Structures and Algorithms, Web Development, Stock Market Investing**
 
