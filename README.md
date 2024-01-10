@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://bit.ly/resume_shaurya" target="blank"><img src="https://img.shields.io/twitter/follow/shaurya_rverma?logo=twitter&style=for-the-badge" alt="shaurya_rverma" /></a> </p>
 
-- 🌱 I’m currently learning **Backend with NodeJS and ExpressJS**
+- 🌱 I’m currently looking out for **Backend Developer Opportunities**!
 
 - 📋 My resume **https://bit.ly/resume_shaurya**
 
