@@ -1,13 +1,13 @@
 [![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Shaurya</h1>
-<h3 align="center">A passionate software engineer from India</h3>
+<h3 align="center">A passionate software engineer</h3>
 <img img align="right" alt="Coding" width="400" src="https://media.tenor.com/YNqsJbmb_yMAAAAd/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vermashaurya24&label=Profile%20views&color=0e75b6&style=flat" alt="vermashaurya24" /> </p>
 
 <p align="left"> <a href="https://bit.ly/resume_shaurya" target="blank"><img src="https://img.shields.io/twitter/follow/shaurya_rverma?logo=twitter&style=for-the-badge" alt="shaurya_rverma" /></a> </p>
 
-- 🌱 I’m currently looking out for **Software Engineering Opportunities**!
+- 🌱 I’m currently learning about Vim, and all it's customisations!
 
 - 📋 My resume **https://bit.ly/resume_shaurya**
 
